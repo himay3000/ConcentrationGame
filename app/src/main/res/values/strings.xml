@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ConcentrationGame</string>
+    <string name="try_again_button">Try Again</string>
+    <string name="new_game_button">New Game</string>
+    <string name="end_game_button">End Game</string>
+    <string name="question_text">How many cards do you want to play with?</string>
+    <string name="two_cards_button">2</string>
+    <string name="four_cards_button">4</string>
+    <string name="six_cards_button">6</string>
+    <string name="eight_cards_button">8</string>
+    <string name="ten_cards_button">10</string>
+    <string name="twelve_cards_button">12</string>
+    <string name="fourteen_cards_button">14</string>
+    <string name="sixteen_cards_button">16</string>
+    <string name="eighteeen_cards_button">18</string>
+    <string name="twenty_cards_button">20</string>
+    <string name="score_text">Score: </string>
+</resources>

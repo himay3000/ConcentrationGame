@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\mrfre\Downloads\ConcentrationGame-Freddy-Updates\ConcentrationGame.iml" filepath="C:\Users\mrfre\Downloads\ConcentrationGame-Freddy-Updates\ConcentrationGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcentrationGame-Freddy-Updates.iml" filepath="$PROJECT_DIR$/ConcentrationGame-Freddy-Updates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcentrationGame-Freddy-Updates-master(1).iml" filepath="$PROJECT_DIR$/ConcentrationGame-Freddy-Updates-master(1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\mrfre\Downloads\ConcentrationGame-Freddy-Updates\app\app.iml" filepath="C:\Users\mrfre\Downloads\ConcentrationGame-Freddy-Updates\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
